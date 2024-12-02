@@ -1,0 +1,4 @@
+websocket==0.2.1
+asyncio==3.4.3
+pyserial==3.5
+websockets==14.1
